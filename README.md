@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-Tru
-- 👀 I’m interested in ... Front-End Development
-- 🌱 I’m currently learning ... HTML CSS JavaScript React
+- 👀 I’m interested in ... Full-Stack Development
+- 🌱 I’m currently learning ... The MERN stack
 
 <!---
 Ryan-Tru/Ryan-Tru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
